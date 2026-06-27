@@ -2,3 +2,5 @@ python-dotenv
 huggingface_hub
 smolagents
 ddgs
+langchain_community
+rank_bm25
